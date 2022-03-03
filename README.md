@@ -1,2 +1,2 @@
-# My-First-React-Project
+React-calculator
 first project
